@@ -1,3 +1,6 @@
 # Vite + React + TS
-# npm create vite@latest
-# npm install
+
+```
+npm create vite@latest
+npm install typescript
+```
