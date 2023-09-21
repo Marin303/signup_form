@@ -1,4 +1,4 @@
-# Vite + React + TS
+# Vite + TS
 
 ```
 npm create vite@latest
